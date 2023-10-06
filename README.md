@@ -1,7 +1,7 @@
 # My python template
 
-[![CI](https://github.com/samcunliffe/pythontemplate/actions/workflows/ci.yml/badge.svg)](https://github.com/samcunliffe/pythontemplate/actions/workflows/ci.yml)
-[![codecov](https://codecov.io/gh/samcunliffe/pythontemplate/graph/badge.svg)](https://codecov.io/gh/samcunliffe/pythontemplate)
+[![CI](https://github.com/samcunliffe/python-toy-template/actions/workflows/ci.yml/badge.svg)](https://github.com/samcunliffe/python-toy-template/actions/workflows/ci.yml)
+[![codecov](https://codecov.io/gh/samcunliffe/python-toy-template/graph/badge.svg)](https://codecov.io/gh/samcunliffe/python-toy-template)
 
 There are many like it, but this one is mine.
 
